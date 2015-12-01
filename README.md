@@ -17,6 +17,6 @@ processes of other scholars. Open data as a
 [public good](https://elidourado.com/blog/why-i-should-blog-more/).
 
  
-If you spot an error please file a 
-[bug report](https://github.com/JakeRuss/bairoch-1988/issues) 
-and I will correct it. Pull requests are also graciously accepted.
+If you spot an error please bring it to my attention
+[here](https://github.com/JakeRuss/bairoch-1988/issues) 
+and I will correct it. I also encourage pull requests.
